@@ -1,0 +1,236 @@
+/* ===== RESET ===== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    color: #333;
+    background-color: #f5f5f5;
+    line-height: 1.6;
+}
+
+/* ===== HEADER ===== */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 60px;
+    background: #fff;
+    position: sticky;
+    top: 0;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    z-index: 10;
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.logo span {
+    color: #0077ff;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+nav ul li {
+    margin-left: 25px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    transition: color 0.3s;
+}
+nav ul li a:hover {
+    color: #0077ff;
+}
+h1,h2,h3,h4 {
+    text-decoration-line: underline;
+}
+/* ===== HERO ===== */
+
+.plusgros {
+    font-size: 150%;
+
+}
+.hero {
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0)),
+                url('https://via.placeholder.com/1920x1080') center/cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #fff;
+
+}
+
+.hero-content h1 {
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+}
+.hero-content span {
+    color: #0077ff;
+}
+.hero-content p {
+    max-width: 600px;
+    margin: 0 auto 25px;
+    font-size: 1.5rem;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 25px;
+    background: #0077ff;
+    color: #fff;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+.btn:hover {
+    background: #005fcc;
+}
+
+.presentation {
+    height: 1400px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.presentation-dynamic {
+    height: 50%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.boite-mid {
+    width : 100%;
+    height : 600px;
+    align-content: center;
+    align-self: center;
+
+}
+
+.boite-text {
+    width : 40%;
+    height : 500px;
+}
+
+.image-self {
+    width : 470px;
+    height : 600px;
+    position: relative;
+    margin-top: 220px;
+    align-self: center;
+
+}
+
+.image-logo {
+    width : 400px;
+    height : 215px;
+    position:absolute;
+    margin-left: 35px;
+
+}
+
+/* ===== ABOUT ===== */
+.about {
+    padding: 80px 60px;
+    background: #fff;
+    text-align: center;
+}
+.about-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    margin-top: 40px;
+    flex-wrap: wrap;
+}
+.about-content img {
+    width: 250px;
+    border-radius: 50%;
+}
+.about-content p {
+    max-width: 500px;
+}
+
+/* ===== PROJECTS ===== */
+.projects {
+    padding: 80px 60px;
+    text-align: center;
+}
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 30px;
+    margin-top: 40px;
+}
+.project-card {
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s;
+}
+.project-card:hover {
+    transform: translateY(-5px);
+}
+.project-card img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+}
+.project-card h3 {
+    margin: 15px;
+}
+.project-card p {
+    margin: 0 15px 20px;
+    font-size: 0.95rem;
+}
+
+/* ===== CONTACT ===== */
+.contact {
+    padding: 80px 60px;
+    background: #0077ff;
+    color: #fff;
+    text-align: center;
+}
+.contact form {
+    max-width: 600px;
+    margin: 30px auto 0;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.contact input, .contact textarea {
+    padding: 12px;
+    border: none;
+    border-radius: 5px;
+}
+.contact button {
+    background: #fff;
+    color: #0077ff;
+    padding: 12px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.contact button:hover {
+    background: #eaeaea;
+}
+
+/* ===== FOOTER ===== */
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #fff;
+    color: #777;
+    font-size: 0.9rem;
+}

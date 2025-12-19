@@ -1,0 +1,135 @@
+1. Objectifs de la formation
+
+La formation vise à :
+
+Former des professionnels opérationnels dans les métiers de l’informatique : développement, administration système, réseau et cybersécurité.
+
+Développer les compétences techniques (programmation, réseaux, bases de données, cybersécurité).
+
+Préparer les étudiants à analyser les besoins d’un client, proposer une solution, la mettre en œuvre et l’exploiter.
+
+Permettre une insertion professionnelle rapide ou la poursuite d’études (licences, bachelors, écoles d’ingénieurs).
+
+2. Les deux spécialités du BTS SIO
+ Option SISR — Solutions d’Infrastructure, Systèmes et Réseaux
+
+Formation orientée vers :
+
+L’administration et la configuration des réseaux et systèmes.
+
+Le déploiement de serveurs, la virtualisation, la gestion des utilisateurs.
+
+La supervision, la sécurité et la maintenance d’une infrastructure informatique.
+
+Débouchés : technicien réseau, administrateur systèmes, support informatique, technicien cybersécurité…
+
+ Option SLAM — Solutions Logicielles et Applications Métiers
+
+Formation axée sur :
+
+Le développement d'applications web, mobile ou client/serveur.
+
+La conception de bases de données.
+
+Le déploiement, la maintenance et l’évolution de solutions logicielles.
+
+Débouchés : développeur web, analyste programmeur, intégrateur d’applications, consultant logiciel…
+
+ 3. Programme de la formation (tronc commun + spécialités)
+Enseignements généraux
+
+Culture générale & expression
+
+Anglais
+
+Mathématiques pour l’informatique
+
+Économie, management, droit
+
+Enseignements informatiques communs
+
+Support et mise à disposition de services informatiques
+
+Cybersécurité des services informatiques
+
+Environnement technologique (réseau, systèmes, bases de données)
+
+Gestion de projet informatique
+
+Communication professionnelle
+
+Veille technologique
+
+Enseignements spécifiques selon l’option
+Option SISR
+
+Administration systèmes (Linux/Windows Server)
+
+Réseaux (Cisco, LAN/WAN, VLAN…)
+
+Services réseau (DNS, DHCP, HTTPS…)
+
+Virtualisation (VMware, Hyper-V)
+
+Sécurité des infrastructures
+
+Option SLAM
+
+Développement web (HTML, CSS, JS, PHP, frameworks…)
+
+Programmation orientée objet (Java, .NET…)
+
+Bases de données (SQL, UML, Merise)
+
+Applications mobiles
+
+Gestion de version (Git)
+
+Conception d’API, tests logiciels
+
+ 4. Liste des 6 compétences de l’épreuve E5
+
+Les 6 compétences officielles (C1 à C6) sont :
+
+C1 – Gérer le patrimoine informatique
+
+C2 – Répondre aux incidents et aux demandes d’assistance
+
+C3 – Développer la présence en ligne de l’organisation
+
+C4 – Travailler en mode projet
+
+C5 – Mettre à disposition des utilisateurs un service informatique
+
+C6 – Organiser son développement professionnel
+
+ 5. Définition synthétique des compétences C1 à C6
+C1 — Gérer le patrimoine informatique
+
+Assurer la gestion et la mise à jour des ressources matérielles, logicielles et des données de l’organisation.
+Veiller à la cohérence, à la disponibilité et à la conformité du parc informatique.
+
+C2 — Répondre aux incidents et aux demandes d’assistance
+
+Diagnostiquer et résoudre les pannes et dysfonctionnements signalés par les utilisateurs.
+Assurer un support technique efficace et documenté.
+
+C3 — Développer la présence en ligne de l’organisation
+
+Mettre en place et maintenir des services web (site vitrine, intranet, services en ligne).
+Contribuer à la visibilité numérique de l’entreprise en respectant ses objectifs et contraintes.
+
+C4 — Travailler en mode projet
+
+Collaborer au sein d’une équipe pour planifier, suivre et réaliser un projet informatique.
+Utiliser des outils et méthodes de gestion de projet pour atteindre les objectifs.
+
+C5 — Mettre à disposition des utilisateurs un service informatique
+
+Installer, configurer, sécuriser et tester un service informatique avant sa mise en production.
+S’assurer que le service est opérationnel, documenté et conforme aux besoins.
+
+C6 — Organiser son développement professionnel
+
+Mettre en place une veille technologique et enrichir continuellement ses compétences.
+Analyser ses pratiques professionnelles pour progresser et évoluer dans sa carrière.
